@@ -1,0 +1,6 @@
+server:
+  port: 8088 # Set a custom port for the application
+
+spring:
+  application:
+    name: SpringTestAPI
